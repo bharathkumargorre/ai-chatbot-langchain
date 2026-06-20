@@ -167,14 +167,11 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-> Add screenshots here
+### 🏠  App Landing Page
+![Home UI](screenshots/App Landing Page.png)
 
-```
-- Home UI
-- Chat interface
-- PDF upload feature
-- RAG response example
-```
+### 💬 ai-chatbot-langchain.png
+![Chat](screenshots/ai-chatbot-langchain.png)
 
 ---
 
