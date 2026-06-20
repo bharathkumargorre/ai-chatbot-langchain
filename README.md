@@ -167,8 +167,8 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-### 🏠  App Landing Page
-![Home UI](screenshots/App Landing Page.png)
+### 🏠 App Landing Page
+![Home UI](screenshots/App-Landing-Page.png)
 
 ### 💬 ai-chatbot-langchain
 ![Chat](screenshots/ai-chatbot-langchain.png)
