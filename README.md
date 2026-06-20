@@ -170,7 +170,7 @@ streamlit run app.py
 ### 🏠  App Landing Page
 ![Home UI](screenshots/App Landing Page.png)
 
-### 💬 ai-chatbot-langchain.png
+### 💬 ai-chatbot-langchain
 ![Chat](screenshots/ai-chatbot-langchain.png)
 
 ---
