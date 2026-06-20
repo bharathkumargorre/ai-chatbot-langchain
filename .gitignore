@@ -1,0 +1,32 @@
+# Virtual Environments
+venv/
+.venv/
+
+# Environment Variables
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
+
+# Data
+data/
+
+# Vector Stores
+*.faiss
+*.pkl
+*.index
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
